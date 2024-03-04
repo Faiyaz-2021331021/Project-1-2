@@ -15,7 +15,6 @@ const int height = 50;
 int userDest;
 using namespace std;
 struct position
-
 {
     int x;
     int y;
