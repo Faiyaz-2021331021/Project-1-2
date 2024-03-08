@@ -1,3 +1,17 @@
+///                                      ****         PLEASE USE COMMAND PROMPT TO RUN THIS               ****
+///                                      ****    SOME OF THE INSTRUCTIONS DO NOT RUN IN POWEWRSHELL       ****
+///                                      ****    DEDPENDS ON YOUR SCREEN SIZE. BIGGER SCREEN SIZE CAN     ****
+///                                      ****      CAUSE SOME INSTRUCTION SHOWING IN WRONG PLACE          ****
+
+
+
+///                                      ****      PROJECT MEMBERS : 
+///                                      ****      1.RAFID BIN NASIM SOCCHO
+///                                      ****      2.TOWHEDUZZAMAN
+///                                      ****      3.FAIYAZ ISMAIL
+
+
+
 #include <iostream>
 #include<chrono>
 #include<thread>
@@ -21,8 +35,6 @@ struct position
 };
 struct PlayerInfo
 {
-
-
     char name[50];
     int finalPos[2];
     int visitedArr[13];
