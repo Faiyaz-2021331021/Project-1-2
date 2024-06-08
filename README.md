@@ -4,7 +4,7 @@ Setting: The game is set within the SUST campus, with the vehicle moving based o
 
 Initial focus: Primarily focused on basic movements – left, right, up, and down – in response to user input.
 
-Symbol representation: The '@' symbol represents the virtual vehicle in the game.
+Symbol representation: The '< > ^ v' symbol represents the virtual vehicle in the game.
 
 Starting point: The journey starts from the SUST Gate, and a random destination is selected for the user.
 
